@@ -153,7 +153,7 @@ frontend/
 
 ## Phase 0: Outline & Research
 
-### Prerequisites: research.md complete
+### Initial Research Prerequisites
 
 1. **Extract unknowns from Technical Context** above:
 
